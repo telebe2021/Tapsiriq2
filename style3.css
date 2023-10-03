@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+.div1{
+    width: auto;
+    height: auto;
+    background-color: blue;
+    padding: 20px;
+}
+.div2{
+    margin: 2% auto;
+    width: 700px;
+    height: auto;
+    border: double;
+    background-color: lightgreen;
+    padding: 10px;
+}
+.link{
+    margin: 5% auto;
+    width: 400px;
+    height: auto;
+    background-color: red;
+    padding: 10px;
+    border: double;
+    border-radius: 15px;
+    text-align: center;
+}
+.div3{
+    width: auto;
+    height: auto;
+    background-color: darkcyan;
+    padding: 20px;
+}
+.white{
+    color: white;
+}
